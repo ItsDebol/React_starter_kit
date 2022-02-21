@@ -1,6 +1,6 @@
 import React from "react";
 import Display from "../../component/pdf/pdf.component";
-import RightPane from "../../component/rightPanel/rightPanel.component";
+import RightPane from "../../component/rightpanel/rightPanel.component";
 
 function Home() {
   return (
